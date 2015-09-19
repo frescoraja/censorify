@@ -1,0 +1,11 @@
+{
+  "author": "David Carter",
+  "name": "censorify",
+  "version": "0.1.0",
+  "description": "take any text and censor the *$&% out of it.",
+  "main": "censortext",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
