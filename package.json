@@ -1,9 +1,16 @@
 {
-  "author": "David Carter",
+  "author": "David James Carter",
   "name": "censorify",
   "version": "0.1.0",
   "description": "take any text and censor the *$&% out of it.",
   "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frescoraja/censorify"
+  },
+  "keywords": [
+    "censor", "censored", "word", "words"
+  ],
   "dependencies": {},
   "engines": {
     "node": "*"
